@@ -1,0 +1,3 @@
+POST http://172.30.1.197:8080/NhApi/loan/provision.do
+
+{   "goodsid" : 61}
